@@ -2,38 +2,62 @@
 	"users": [
 		{
 			"id": 1,
-			"firstname": "Josh",
-			"dog": "Ragnar",
-			"hobbies": ["Surf", "Being bad at videogames"]
+			"category": "ForwardBackBend",
+			"asanas":[
+				{"id":101, 
+				"name":"Uttanasana",
+				"image":"",
+				"description": " "},
+				{"id":102,
+				"name":"Paschimottanasana",
+				"image":""},
+				{"id":103,
+				"name":"JanuSirsasana",
+				"image":"./images/januSirsanana"}
+			]
 		},
 		{
 			"id": 2,
-			"firstname": "Eric",
-			"cat": false,
-			"hobbies": ["Lord of the Rings", "DnD"]
-		}
-	],
-	"playSessions": [
-		{
-			"id": 1,
-			"userId": 1,
-			"game": "LoL",
-			"playTime": 0,
-			"description": "I need to try out this one so that I can lose my life and my soul"
+			"category": "BackwardBackBend",
+			"asanas":[
+				{"id":201,
+				"name":"Ustrasana",
+				"image":" "},
+				{"id":202, "name":"Bhujangasana ","image":""},
+				{"id":203,"name":"Urdhva Mukha Svanasana","image":""}
+			]
 		},
-		{
-			"id": 2,
-			"userId": 1,
-			"game": "OW",
-			"playTime": 100,
-			"description": "Finally I had a win in the end"
-		},
+
 		{
 			"id": 3,
-			"userId": 2,
-			"game": "DnD",
-			"playTime": 600,
-			"description": "I finished my turn in Civ"
-		}
-	]
+			"category": "Twist",
+			"asanas":[
+				{"id":301, "name":"Ardha Matsyendrasana ","image":" "},
+				{"id":302, "name":"Parivrtta Trikonasana","image":""},
+				{"id":303,"name":"Parivrtta Utkatasana","image":""}
+			]
+			
+		},
+
+		{
+			"id": 4,
+			"category": "Bend",
+			"asanas":[
+				{"id":401, "name":"Uttanasana","image":" "},
+				{"id":402, "name":"Trikonasana","image":""},
+				{"id":403,"name":"Chakrasana","image":""}
+			]
+		},
+
+	{
+		"id": 5,
+		"category": "Inverted",
+		"asanas":[
+			{"id":501, "name":"Sirsasana ","image":" "},
+			{"id":502, "name":"Sarvangasana ","image":""},
+			{"id":503,"name":"Adho Mukha Vrksasana","image":""}
+		]
+	}
+]
 }
+
