@@ -5,14 +5,14 @@
 			"category": "forwardBend",
 			"asanas":[
 				{"id":101, 
-				"name":"asana101", // Uttanasana
-				"image":"",
-				"description": " "},
+				"name":"asana101",
+				"image":"Uttanasana",
+				"description": ""},
 				{"id":102,
-				"name":"asana102", // Paschimottanasana
-				"image":""},
+				"name":"asana102",
+				"image":"JanuSirsasana"},
 				{"id":103,
-				"name":"asana103", // JanuSirsasana
+				"name":"asana103", 
 				"image":"./images/januSirsanana"}
 			]
 		},
@@ -21,14 +21,14 @@
 			"category": "backwardBend",
 			"asanas":[
 				{"id":201,
-				"name":"asana201", // Ustrasana
-				"image":" "},
+				"name":"asana201",
+				"image":"Ustrasana"},
 				{"id":202,
-				"name":"asana202", //Bhujangasana 
-				"image":""},
+				"name":"asana202",
+				"image":"Bhujangasana"},
 				{"id":203,
-				"name":"asana203", // Urdhva Mukha Svanasana
-				"image":""}
+				"name":"asana203",
+				"image":"Urdhva Mukha Svanasana"}
 			]
 		},
 
@@ -37,14 +37,14 @@
 			"category": "Twist",
 			"asanas":[
 				{"id":301,
-				"name":"asana301", // Ardha Matsyendrasana
-				"image":" "},
+				"name":"asana301",
+				"image":"Ardha Matsyendrasana"},
 				{"id":302, 
-				"name":"asana302", // Parivrtta Trikonasana
-				"image":""},
+				"name":"asana302",
+				"image":"Parivrtta Trikonasana"},
 				{"id":303,
-				"name":"asana303", // Parivrtta Utkatasana
-				"image":""}
+				"name":"asana303",
+				"image":"Parivrtta Utkatasana"}
 			]
 			
 		},
@@ -54,14 +54,14 @@
 			"category": "Bend",
 			"asanas":[
 				{"id":401, 
-				"name":"asana401", // utthita parshovakonasa
-				"image":" "},
+				"name":"asana401",
+				"image":"utthita parshovakonasa"},
 				{"id":402, 
-				"name":"asana402", // Trikonasana
-				"image":""},
+				"name":"asana402",
+				"image":"Trikonasana"},
 				{"id":403,
-				"name":"403", // Chakrasana
-				"image":""}
+				"name":"403",
+				"image":"Chakrasana"}
 			]
 		},
 
@@ -70,14 +70,14 @@
 		"category": "Inverted",
 		"asanas":[
 			{"id":501, 
-			"name":"asana501", // viparitakarni
-			"image":" "},
+			"name":"asana501",
+			"image":"viparitakarni"},
 			{"id":502, 
-			"name":"asana502",// Sarvangasana
-			"image":""},
+			"name":"asana502", 
+			"image":"Sarvangasana"},
 			{"id":503,
-			"name":"asana503", // Adho Mukha Vrksasana
-			"image":""}
+			"name":"asana503",
+			"image":"AdhoMukhaVrksasana"}
 		]
 	}
 ]
