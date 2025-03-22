@@ -3,6 +3,7 @@
 		{
 			"id": 1,
 			"category": "forwardBend",
+			"image":"https://www.doyou.com/wp-content/uploads/2021/01/How-To-Do-Standing-Forward-Bend-Pose.jpg",
 			"asanas":[
 				{"id":101, 
 				"name":"Uttanasana", 
@@ -49,6 +50,7 @@
 		{
 			"id": 2,
 			"category": "backwardBend",
+			"image":"https://www.shutterstock.com/image-photo/young-attractive-woman-practicing-yoga-600nw-713195971.jpg",
 			"asanas":[
 				{"id":201,
 				"name":"Ustrasana",
@@ -100,6 +102,7 @@
 		{
 			"id": 3,
 			"category": "Twist",
+			"image":"https://saturn.health/cdn/shop/articles/WhatsApp_Image_2022-04-06_at_10.25.01_AM_4_720x.jpg?v=1649397256",
 			"asanas":[
 				{"id":301,
 				"name":"Bharadvajasana", 
@@ -156,10 +159,11 @@
 		{
 			"id": 4,
 			"category": "Bend",
+			"image":"https://cdn2.stylecraze.com/wp-content/uploads/2014/06/Halasana-regulates-metabolism.jpg.webp",
 			"asanas":[
 				{"id":401, 
 				"name":"Bakasana", 
-				"image":"https://img.freepik.com/premium-vector/sporty-woman-doing-challenging-yoga-pose-premium_166119-2.jpg?w=740 ",
+				"image":"https://img.freepik.com/premium-photo/cartoon-image-girl-laying-mat-with-cartoon-image-girl-bottom_1294529-3857.jpg ",
 				"benefits":"Strengthens arms, wrists, and core.",
 				"instruction":["1.Begin in a squat position with feet close together and hands shoulder-width apart on the mat.",
       "2.Spread your fingers wide and press firmly into the ground.",
@@ -208,6 +212,7 @@
 	{
 		"id": 5,
 		"category": "Inverted",
+		"image":"https://st5.depositphotos.com/13765278/61773/i/450/depositphotos_617732438-stock-photo-young-flexible-woman-beautiful-yoga.jpg",
 		"asanas":[
 			{"id":501, 
 			"name":"Dwi Pada Viparita Dandasana", 
