@@ -5,18 +5,20 @@
       "category": "forwardBend",
       "image": "https://www.doyou.com/wp-content/uploads/2021/01/How-To-Do-Standing-Forward-Bend-Pose.jpg",
       "asanas": [
-		{"id":101, 
-				"name":"Uttanasana", 
-				"image":"https://img.freepik.com/free-vector/woman-practicing-yoga-mat_1308-122877.jpg?t=st=1742582706~exp=1742586306~hmac=3f0982c69b4604812df862e13d375c93a64ca895a75269d8a6e1b7952c0fccff&w=900",
-				"benefits":"Stretches the hamstrings, calves, and lower back; calms the mind.",
-				"instruction": ["1.Stand tall with feet hip-width apart and arms by your sides.",
-				"2.Inhale deeply, then exhale as you bend forward from the hips.",
-				"3.Let your head relax and hands reach toward the floor (bend your knees slightly if needed).",
-				"4.Engage your thighs and lengthen your spine.",
-				"5.Hold for 30 seconds to 1 minute, breathing deeply.",
-				"6.To release, slowly roll up to standing."
-				]},
-
+        {
+          "id": 101,
+          "name": "Uttanasana",
+          "image": "https://img.freepik.com/free-vector/woman-practicing-yoga-mat_1308-122877.jpg?t=st=1742582706~exp=1742586306~hmac=3f0982c69b4604812df862e13d375c93a64ca895a75269d8a6e1b7952c0fccff&w=900",
+          "benefits": "Stretches the hamstrings, calves, and lower back; calms the mind.",
+          "instruction": [
+            "1.Stand tall with feet hip-width apart and arms by your sides.",
+            "2.Inhale deeply, then exhale as you bend forward from the hips.",
+            "3.Let your head relax and hands reach toward the floor (bend your knees slightly if needed).",
+            "4.Engage your thighs and lengthen your spine.",
+            "5.Hold for 30 seconds to 1 minute, breathing deeply.",
+            "6.To release, slowly roll up to standing."
+          ]
+        },
         {
           "id": 102,
           "name": "Balasana",
@@ -104,7 +106,7 @@
       "asanas": [
         {
           "id": 301,
-          "name": "Bharadvajasana",
+          "name": "Bhadrajasana",
           "image": "https://img.freepik.com/premium-vector/women-doing-yoga-design-illustration_493925-932.jpg?w=740 ",
           "benefits": "Benefits: Improves spinal flexibility, aids digestion, and relieves lower back tension.",
           "instruction": [
