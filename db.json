@@ -5,29 +5,32 @@
       "category": "forwardBend",
       "image": "https://www.doyou.com/wp-content/uploads/2021/01/How-To-Do-Standing-Forward-Bend-Pose.jpg",
       "asanas": [
-		{"id":101, 
-				"name":"Uttanasana", 
-				"image":"https://img.freepik.com/free-vector/woman-practicing-yoga-mat_1308-122877.jpg?t=st=1742582706~exp=1742586306~hmac=3f0982c69b4604812df862e13d375c93a64ca895a75269d8a6e1b7952c0fccff&w=900",
-				"benefits":"Stretches the hamstrings, calves, and lower back; calms the mind.",
-				"instruction": ["1.Stand tall with feet hip-width apart and arms by your sides.",
-				"2.Inhale deeply, then exhale as you bend forward from the hips.",
-				"3.Let your head relax and hands reach toward the floor (bend your knees slightly if needed).",
-				"4.Engage your thighs and lengthen your spine.",
-				"5.Hold for 30 seconds to 1 minute, breathing deeply.",
-				"6.To release, slowly roll up to standing."
-				]},
-
+        {
+          "id": 101,
+          "name": "Uttanasana",
+          "image": "https://img.freepik.com/free-vector/woman-practicing-yoga-mat_1308-122877.jpg?t=st=1742582706~exp=1742586306~hmac=3f0982c69b4604812df862e13d375c93a64ca895a75269d8a6e1b7952c0fccff&w=900",
+          "benefits": "Stretches the hamstrings, calves, and lower back; calms the mind.",
+          "instruction": [
+            "1. Stand tall with feet together.",
+            "2. With open eyes bend forward.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
+          ]
+        },
         {
           "id": 102,
           "name": "Balasana",
           "image": "https://img.freepik.com/free-vector/yoga-child-pose-cartoon-character_1308-119079.jpg?t=st=1742587465~exp=1742591065~hmac=4ab9db6c5ab954686fea5a39d9a229360b8fa3023b635374575d887f6ee70661&w=1380",
           "benefits": "Relieves tension in the back, hips, and shoulders; promotes relaxation.",
           "instruction": [
-            "1.Kneel on the floor with big toes touching and knees slightly apart.",
-            "2.Sit back onto your heels.",
-            "3.Extend your arms forward, lowering your chest toward the ground.",
-            "4.Rest your forehead on the mat and breathe deeply.",
-            "5.Stay here for 30 seconds to a few minutes."
+            "1. On your knees with feet together.",
+            "2. Bend forward with eyes open.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         },
         {
@@ -36,12 +39,12 @@
           "image": "https://img.freepik.com/free-vector/woman-practicing-yoga-mat_1308-120963.jpg?t=st=1742583142~exp=1742586742~hmac=e5603108193b9a5aaf0fca95261e34cb1f43a2e1e9b62d6536874ba5f00c887a&w=1380",
           "benefits": "Stretches the hamstrings, spine, and lower back; improves digestion",
           "instruction": [
-            "1.Sit on the floor with legs extended straight.",
-            "2.Bend your right knee and place your foot against the inner left thigh.",
-            "3.Inhale and lengthen your spine.",
-            "4.Exhale as you fold forward over your left leg, reaching for your foot (or shin).",
-            "5.Keep your back straight and relax your head",
-            "6.Hold for 30 seconds to 1 minute, then switch sides."
+            "1. On the floor with leg strecthed.",
+            "2. Bend forward with eyes open.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         }
       ]
@@ -57,13 +60,12 @@
           "image": "https://media.istockphoto.com/id/1208492982/nl/vector/de-vrouw-in-kameel-stelt-het-doen-van-yoga-op-een-mat.jpg?s=1024x1024&w=is&k=20&c=-290h5DMWTGpApfbm2CFJJ1lN-MiACF4A8YK_G9dBKM= ",
           "benefits": "Stretches the chest, abdomen, and thighs; improves posture and spinal flexibility",
           "instruction": [
-            "1.Kneel on the floor with your knees hip-width apart.",
-            "2.Place your hands on your lower back for support, fingers pointing downward.",
-            "3.Inhale and lift your chest while gently arching your back.",
-            "4.Slowly reach for your heels with your hands, one at a time.",
-            "5.Keep your neck neutral or let your head drop back if comfortable.",
-            "6.Hold for 20–30 seconds, breathing deeply.",
-            "7.To release, slowly bring your hands back to your lower back and return to kneeling."
+            "1. On your knees.",
+            "2. Bend backwards with eyes open.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         },
         {
@@ -72,12 +74,12 @@
           "image": "https://img.freepik.com/free-vector/girl-doing-yoga-cartoon-character_1308-118066.jpg?t=st=1742583914~exp=1742587514~hmac=2c14c2934b3eaf84219485d0b5541ef6511664557f2fffcdd2525ab28feaba3f&w=826",
           "benefits": "Strengthens the spine, opens the chest, and improves flexibility in the lower back.",
           "instruction": [
-            "1.Lie on your stomach with legs extended and feet hip-width apart..",
-            "2.Place your hands under your shoulders, elbows close to your body.i",
-            "3.Inhale and press into your hands to lift your chest, keeping elbows slightly bent",
-            "4.Engage your lower back and thighs while keeping shoulders relaxed.",
-            "5.Hold for 20–30 seconds, breathing deeply.",
-            "6.Exhale and gently lower your chest back down."
+            "1. On the floor facing down.",
+            "2. Bend backwards with eyes open.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         },
         {
@@ -86,13 +88,12 @@
           "image": "https://img.freepik.com/premium-vector/girl-doing-yoga-stretch-pose-healthy-child-routine_533410-2335.jpg?w=740",
           "benefits": " Improves balance, strengthens legs, and stretches the chest and shoulders",
           "instruction": [
-            "1.Stand tall with feet together.",
-            "2.Shift weight onto your left foot and bend your right knee.",
-            "3.Reach back with your right hand and grab your right ankle.",
-            "4.Extend your left arm forward for balance..",
-            "5.Inhale, lift your right leg behind you, and arch your back slightly",
-            "6.Keep your gaze steady and hold for 20–30 seconds.",
-            "7.Slowly release and repeat on the other side.."
+            "1. Stand tall with feet together.",
+            "2. Stay in one feet bend backwards.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         }
       ]
@@ -108,13 +109,12 @@
           "image": "https://img.freepik.com/premium-vector/women-doing-yoga-design-illustration_493925-932.jpg?w=740 ",
           "benefits": "Benefits: Improves spinal flexibility, aids digestion, and relieves lower back tension.",
           "instruction": [
-            "1.Sit on the floor with legs extended.",
-            "2.Bend both knees and bring them to the right side, stacking feet near the right hip..",
-            "3.Place your left hand on your right knee and your right hand on the floor behind you.",
-            "4.Inhale, lengthen your spine, and exhale as you gently twist to the right.",
-            "5.Keep your gaze over your right shoulder or in a comfortable position.",
-            "6.Hold for 20–30 seconds, then switch sides..",
-            "7.Slowly release and repeat on the other side.."
+            "1. On the floor with legs.",
+            "2. Bend forward with eyes open.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         },
         {
