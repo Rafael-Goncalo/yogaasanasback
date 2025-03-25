@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "category": "forwardBend",
+      "category": "Forward Bend",
       "image": "https://www.doyou.com/wp-content/uploads/2021/01/How-To-Do-Standing-Forward-Bend-Pose.jpg",
       "asanas": [
         {
@@ -51,7 +51,7 @@
     },
     {
       "id": 2,
-      "category": "backwardBend",
+      "category": "Backward Bend",
       "image": "https://www.shutterstock.com/image-photo/young-attractive-woman-practicing-yoga-600nw-713195971.jpg",
       "asanas": [
         {
@@ -86,7 +86,7 @@
           "id": 203,
           "name": "Marjariasana - मार्जरीआसन",
           "image": "https://img.freepik.com/premium-photo/hisoanic-man-doing-yoga_924209-148.jpg?w=2000",
-          "benefits": "marjari = cat / asana = pose ",
+          "benefits": "marjari = cat / asana = pose",
           "instruction": [
             "1. Knees and hands on the floor.",
             "2. Arch your spine backwards.",
@@ -100,7 +100,7 @@
     },
     {
       "id": 3,
-      "category": "Twist",
+      "category": "Twist Right Left",
       "image": "https://saturn.health/cdn/shop/articles/WhatsApp_Image_2022-04-06_at_10.25.01_AM_4_720x.jpg?v=1649397256",
       "asanas": [
         {
@@ -148,51 +148,49 @@
     },
     {
       "id": 4,
-      "category": "Bend",
+      "category": "Side Bend",
       "image": "https://cdn2.stylecraze.com/wp-content/uploads/2014/06/Halasana-regulates-metabolism.jpg.webp",
       "asanas": [
         {
           "id": 401,
-          "name": "Bakasana",
-          "image": "https://img.freepik.com/premium-photo/cartoon-image-girl-laying-mat-with-cartoon-image-girl-bottom_1294529-3857.jpg ",
-          "benefits": "Strengthens arms, wrists, and core.",
+          "name": "Trikonasana - त्रिकोणासन",
+          "image": "https://img.freepik.com/premium-photo/young-brunette-latin-woman-home-practicing-yoga-poses-copy-space_434738-4150.jpg?w=2000",
+          "benefits": "Trikona = triangle / Asana = pose",
           "instruction": [
-            "1.Begin in a squat position with feet close together and hands shoulder-width apart on the mat.",
-            "2.Spread your fingers wide and press firmly into the ground.",
-            "3.Bend your elbows slightly and place your knees on the back of your upper arms (triceps).",
-            "4.Lean forward slowly, shifting your weight onto your hands.",
-            "5.Engage your core and lift your feet off the ground, balancing on your hands.",
-            "6.Keep your gaze slightly forward and hold for 10–30 seconds.",
-            "7.To release, gently lower your feet back down."
+            "1. Stand with legs open shoulder width.",
+            "2. Bend to the right then to the left.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         },
         {
           "id": 402,
-          "name": "Halasana",
-          "image": "https://img.freepik.com/premium-vector/cartoon-female-practicing-yoga-halasana-pose-isolated-white-sports-woman-plow-position-vector-flat-illustration-yogi-girl-demonstrating-exercise-gymnastics-training_198278-8387.jpg?w=826",
-          "benefits": "Stretches the spine and shoulders.",
+          "name": "Utthita Parshvakonasana - उत्थितपार्श्वकोणासन",
+          "image": "https://img.freepik.com/free-photo/young-woman-utthita-parsvakonasana-pose-grey-studio-background_1163-2446.jpg?t=st=1742920622~exp=1742924222~hmac=8bf506332e4046cea40adfdf3b10a1a80acfd502e31aefc9136b2178aa60f1b5&w=2000",
+          "benefits": "Utthita = extended / Parsva = side / Kona = angle",
           "instruction": [
-            "1.Lie on your back with legs extended and arms resting beside you.",
-            "2.Inhale and lift your legs toward the ceiling, engaging your core.",
-            "3.Use your hands to support your lower back as you lift your hips.",
-            "4.Slowly bring your feet over your head toward the floor. If possible, rest your toes on the ground behind you.",
-            "5.Keep your legs straight and avoid putting too much pressure on your neck.",
-            "6.Hold for 20–30 seconds, breathing deeply.",
-            "7.To release, slowly roll your spine back down to the mat."
+            "1. Stand with legs open shoulder width.",
+            "2. Bend to the right then to the left.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         },
         {
           "id": 403,
-          "name": "Chakrasana",
-          "image": "https://img.freepik.com/premium-vector/wheel-chakrasana-yoga-pose-demonstrated-by-girl-cartoon-yogi-with-ponytail-blue-sportive-clothing-vector-illustration_178650-9974.jpg?w=740",
-          "benefits": "Strengthens the back, arms, and legs.",
+          "name": "Parighasana - परिघासन",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Gate_Pose_%28cropped%29.jpg/1920px-Gate_Pose_%28cropped%29.jpg",
+          "benefits": "Parigha = gate / Asana = pose",
           "instruction": [
-            "1.Lie on your back with your knees bent and feet hip-width apart.",
-            "2.Place your hands beside your head, fingers pointing toward your shoulders.",
-            "3.Press your feet and palms into the ground.",
-            "4.Inhale and lift your hips, chest, and head off the mat, straightening your arms.",
-            "5.Keep your arms and legs strong, and hold for 10–30 seconds.",
-            "6.Exhale and gently lower yourself back down."
+            "1. Stand with legs open shoulder width.",
+            "2. Bend to the right then to the left.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         }
       ]
@@ -204,47 +202,44 @@
       "asanas": [
         {
           "id": 501,
-          "name": "Dwi Pada Viparita Dandasana",
-          "image": " https://img.freepik.com/premium-vector/dwi-pada-viparita-dandasana-flat-illustration-dropping-back-bench-caucausian-woman-performing-yoga-posture-green-yellow-sportswear-isolated-cartoon-character-white-background_151150-1611.jpg?w=900",
-          "benefits": "Boosts energy and relieves stress.",
+          "name": "Viparita Karani - विपरीत करणी",
+          "image": "https://img.freepik.com/free-photo/young-woman-doing-viparita-karani-exercise_1163-5064.jpg?t=st=1742921370~exp=1742924970~hmac=1fc1b2aab3f339bacd6dbcb99598cd52f86ba2c28bdb9a643e42e140d78745da&w=2000",
+          "benefits": "Viparita = reversed / Karani = practice",
           "instruction": [
-            "1.Lie on your back with knees bent and feet hip-width apart.",
-            "2.Place your hands beside your head, fingers pointing toward your shoulders.",
-            "3.Press into your hands and feet, lifting into a full Wheel Pose (Chakrasana).",
-            "4.Lower your forearms to the ground, keeping elbows shoulder-width apart.",
-            "5.Straighten your legs, pressing through your toes while lifting your chest.",
-            "6.Engage your core and breathe deeply, holding for 20–30 seconds.",
-            "7.To release, bend your knees and slowly lower your body down."
+            "1. Stand with legs open shoulder width.",
+            "2. Bend to the right then to the left.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         },
         {
           "id": 502,
-          "name": "Sarvangasana",
-          "image": "https://img.freepik.com/free-vector/watercolor-international-yoga-day-illustration_23-2149424102.jpg?t=st=1742586546~exp=1742590146~hmac=43fad709614fb72115bab20f844c9f179901216e179821508afab055725841db&w=740",
-          "benefits": "Strengthens the core, shoulders, and legs.",
+          "name": "Halasana - हलासन",
+          "image": "https://img.freepik.com/premium-photo/my-body-does-everything-i-need-it-shot-young-woman-practising-yoga-her-living-room_590464-4347.jpg?w=2000",
+          "benefits": "Hala = plough / Asana = pose",
           "instruction": [
-            "1.Lie on your back with legs extended and arms resting beside you.",
-            "2.Lift your legs toward the ceiling, engaging your core.",
-            "3.Support your lower back with your hands as you lift your hips.",
-            "4.Straighten your legs and align your body vertically.",
-            "5.Keep your neck relaxed and gaze toward your chest.",
-            "6.Hold for 20–60 seconds, breathing steadily.",
-            "7.To release, slowly lower your legs back down to the mat."
+            "1. Stand with legs open shoulder width.",
+            "2. Bend to the right then to the left.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         },
         {
           "id": 503,
-          "name": "Pincha Mayurasana",
-          "image": "https://img.freepik.com/premium-vector/yoga-pose-handstand-scorpion-pose-asana_946091-102.jpg?w=740",
+          "name": "Sarvangasana",
+          "image": "https://img.freepik.com/premium-photo/beautiful-woman-practicing-yoga-salamba-sarvangasana-pose-shoulder-stand_656932-4582.jpg?w=2000",
           "benefits": "Improves balance and coordination",
           "instruction": [
-            "1.Start in a forearm plank with elbows shoulder-width apart.",
-            "2.Press firmly into the ground and lift your hips toward the ceiling.",
-            "3.Walk your feet closer to your body to shift weight onto your forearms.",
-            "4.Kick one leg up, followed by the other, finding balance in the air.",
-            "5.Engage your core and keep your body aligned.",
-            "6.Hold for 10–30 seconds, breathing steadily.",
-            "7.To release, gently lower your feet back down to the mat."
+            "1. Stand with legs open shoulder width.",
+            "2. Bend to the right then to the left.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Be in the moment."
           ]
         }
       ]
