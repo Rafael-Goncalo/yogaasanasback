@@ -1,25 +1,25 @@
 {
-	"users": [
-	  {
-		"id": 1,
-		"category": "Forward Bend",
-		"image": "https://www.doyou.com/wp-content/uploads/2021/01/How-To-Do-Standing-Forward-Bend-Pose.jpg",
-		"asanas": [
-		  {
-			"id": 101,
-			"name": "Uttanasana - उत्तानासन",
-			"image": "https://img.freepik.com/free-photo/group-young-sporty-people-uttanasana-exercise_1163-4122.jpg?t=st=1742918390~exp=1742921990~hmac=c9facc6d81f7bef0239899761ef9a614497b7852679d833d624ea417d1cee6d9&w=2000",
-			"benefits": "Uttana = Intense / Asana = pose",
-			"instruction": [
-			  "1. Stand tall with feet together.",
-			  "2. With open eyes bend forward.",
-			  "3. Inhale and exhale by the nose.",
-			  "4. Observe the air going in and out.",
-			  "5. Listen to the sounds around you.",
-			  "6. Relax, observe the world upsidown"
-			]
-		  },
-		  {
+  "users": [
+    {
+      "id": 1,
+      "category": "Forward Bend",
+      "image": "https://www.doyou.com/wp-content/uploads/2021/01/How-To-Do-Standing-Forward-Bend-Pose.jpg",
+      "asanas": [
+        {
+          "id": 101,
+          "name": "Uttanasana - उत्तानासन",
+          "image": "https://img.freepik.com/free-photo/group-young-sporty-people-uttanasana-exercise_1163-4122.jpg?t=st=1742918390~exp=1742921990~hmac=c9facc6d81f7bef0239899761ef9a614497b7852679d833d624ea417d1cee6d9&w=2000",
+          "benefits": "Uttana = Intense / Asana = pose",
+          "instruction": [
+            "1. Stand tall with feet together.",
+            "2. With open eyes bend forward.",
+            "3. Inhale and exhale by the nose.",
+            "4. Observe the air going in and out.",
+            "5. Listen to the sounds around you.",
+            "6. Relax, observe the world upsidown"
+          ]
+        },
+        {
           "id": 102,
           "name": "Balasana - बालासन",
           "image": "https://img.freepik.com/premium-photo/yoga-workout-wellness-with-woman-studio-exercise-mat-inner-peace-relax-health-fitness-zen-with-female-athlete-yogi-childs-pose-balance-mindfulness_590464-178828.jpg?w=1800",
@@ -244,6 +244,5 @@
         }
       ]
     }
-    
   ]
 }
