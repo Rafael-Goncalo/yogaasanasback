@@ -197,7 +197,7 @@
     },
     {
       "id": 5,
-      "category": "Inverted",
+      "category": "Inverted Poses",
       "image": "https://img.freepik.com/free-photo/girl-studio_1157-6986.jpg?t=st=1742986078~exp=1742989678~hmac=765825219256202e099173954d6adcebed3ba07ea26d2c476cf446802566e229&w=2000",
       "asanas": [
         {
@@ -230,9 +230,9 @@
         },
         {
           "id": 503,
-          "name": "Sarvangasana",
+          "name": "Sarvangasana - सर्वाङ्गासन",
           "image": "https://img.freepik.com/premium-photo/beautiful-woman-practicing-yoga-salamba-sarvangasana-pose-shoulder-stand_656932-4582.jpg?w=2000",
-          "benefits": "Improves balance and coordination",
+          "benefits": "Sarva = all / Anga = body parts",
           "instruction": [
             "1. Laying in the floor, raise your legs",
             "2. Support your lower back with your hands.",
